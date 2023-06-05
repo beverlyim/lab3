@@ -1,0 +1,10 @@
+{
+  "name": "my-cli-tool",
+  "version": "1.0.0",
+  "description": "My CLI tool",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
